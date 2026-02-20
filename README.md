@@ -1,3 +1,12 @@
-# flutter_application_1
+# Flutter Ecommerce Sample
 
-A new Flutter project.
+This is a Flutter application demonstrating:
+
+• Product listing
+• Product detail screen
+• Cart functionality
+• Provider state management
+• Modular folder structure
+• Ready for REST API integration
+
+Developed using Flutter & Provider architecture.
