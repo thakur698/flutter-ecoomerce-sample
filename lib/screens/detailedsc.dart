@@ -65,7 +65,7 @@ class ProductDetail extends StatelessWidget {
           ScaffoldMessenger.of(
             context,
           ).showSnackBar(SnackBar(content: Text('Add to cart ')));
-          cart.addtocart(product);
+          cart.addToCart(product);
         },
         label: Text("Add to Cart"),
         icon: Icon(Icons.shopping_cart),
